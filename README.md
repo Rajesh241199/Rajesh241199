@@ -17,7 +17,7 @@
 
 ## 🚀 About Me
 
-I'm an **AI Engineer and Data Scientist** with 4+ years of professional experience designing, developing, and deploying intelligent AI-powered solutions.
+I'm an **AI Engineer and Data Scientist** with 5 years of professional experience designing, developing, and deploying intelligent AI-powered solutions.
 
 My expertise spans **Generative AI, Agentic AI, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Machine Learning, and cloud-native AI engineering**.
 
