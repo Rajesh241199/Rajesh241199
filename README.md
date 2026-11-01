@@ -74,7 +74,7 @@ I enjoy transforming complex business challenges into scalable, reliable, and pr
 | Generative AI & LLMs | Python & FastAPI | Machine Learning |
 | Agentic AI & Multi-Agent Systems | Microservices & REST APIs | Predictive Analytics |
 | LangGraph & MCP | Docker & Kubernetes | Natural Language Processing |
-| Retrieval-Augmented Generation | Azure AI Foundry & GCP | Time-Series Forecasting |
+| Retrieval-Augmented Generation | Azure AI Foundry & AWS | Time-Series Forecasting |
 | AI Agents & Workflow Automation | CI/CD & MLOps | Statistical Modeling |
 | LLM Evaluation & Optimization | Logging, Monitoring & AI FinOps | SQL & Data Engineering |
 
